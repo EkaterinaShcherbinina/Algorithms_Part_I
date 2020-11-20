@@ -1,4 +1,4 @@
-package PriorityQueues.PQ.DynamicMedian;
+package PriorityQueues.DynamicMedian;
 
 public class DynamicMedian {
     private MaxPQ maxPQ;

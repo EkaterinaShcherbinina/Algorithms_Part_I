@@ -1,4 +1,4 @@
-package PriorityQueues.PQ.SliderPuzzle;
+package PriorityQueues.SliderPuzzle;
 
 import java.util.TreeMap;
 
