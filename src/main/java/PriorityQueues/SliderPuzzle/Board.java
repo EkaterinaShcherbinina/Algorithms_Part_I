@@ -1,4 +1,4 @@
-package PriorityQueues.PQ.SliderPuzzle;
+package PriorityQueues.SliderPuzzle;
 
 import edu.princeton.cs.algs4.In;
 
